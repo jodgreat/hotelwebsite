@@ -1,0 +1,87 @@
+header{
+    background-color: rgba(3, 3, 3, 0.329);
+    
+}
+.nav-link{
+    font-size: 20px;
+    color: white;
+}
+.nav-link:hover{
+    font-size: 20px;
+    color: rgb(253, 99, 94);
+}
+
+.text-end .btn{
+    background-color: rgb(253, 99, 94);
+    border: 0
+}
+.main-content{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.px-4 h1{
+    font-size: 120px;
+}
+.lead{
+    font-size: 24px;
+}
+
+.wrapper{
+    top: 0;
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    z-index: -1; 
+    opacity: 0.4;  
+}
+.bg{
+    top: 0;
+    position: absolute;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    z-index: -1;
+}
+
+.d-grid .btn{
+    background-color: rgb(55, 63, 165);
+    border: 0;
+    
+}
+
+.upper-text{
+    color: rgb(253, 99, 94);
+}
+
+.star{
+    color:  rgb(253, 99, 94);
+}
+
+.book-now-h1{
+    font-size: 80px;
+    color:  rgb(253, 99, 94);
+}
+
+.book-now-btn{
+    background-color: rgb(55, 63, 165);
+    border: 0;
+}
+
+.services{
+    background-color: rgba(240, 241, 255, 0.733);
+    padding: 10px;
+}
+
+.footer{
+    background-color: rgb(55, 63, 165);
+    color: white;
+}
+.about-us-h1{
+    font-size: 14px;
+}
+
